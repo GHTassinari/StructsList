@@ -1,0 +1,14 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\bin\Debug\net6.0\ListaBandas.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\bin\Debug\net6.0\ListaBandas.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\bin\Debug\net6.0\ListaBandas.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\bin\Debug\net6.0\ListaBandas.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\bin\Debug\net6.0\ListaBandas.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ListaBandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ListaBandas.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ListaBandas.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ListaBandas.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ListaBandas.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\refint\ListaBandas.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ListaBandas.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ListaBandas.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Projetos\Exercicio_1\ListaBandas\ListaBandas\obj\Debug\net6.0\ref\ListaBandas.dll

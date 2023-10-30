@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OX/Qqs302GtuofSV1H6x0EGAxVByv/XSaA1pM3hN8+bs0fSyHfjBFA/XTPu9QyuALhr9KWHOeefVQIAhOzVRMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos\\Exercicio_1\\ListaBandas\\ListaBandas\\ListaBandas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
