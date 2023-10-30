@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDHG1ICL+hBTntCRD3G61TzqBgTqR1bMRAgRIhrUDeQt+gKjsnBbm6WK+oTnB5eLgfnbdg73GDhQ5SfKQshBnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos\\Exercicio_5\\ControleFazenda\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
