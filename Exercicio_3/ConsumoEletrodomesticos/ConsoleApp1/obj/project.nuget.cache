@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sONwRTxs1VuE2s8YFQokRZvbwbVsaVuvHoVZtWch3TQF4luadYPu1OHSGG0/DS/JvSqSsU1bu2agZsl+8ybG6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos\\Exercicio_3\\ConsumoEletrodomesticos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
